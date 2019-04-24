@@ -1,4 +1,4 @@
-# DiaDelIdioma Pequeños retos inspirados en el día del idioma
+# Pequeños retos inspirados en el día del idioma
 
 
 hoy 23 de abril  se celebra el día del idioma y muchas personas están hablando sobre la importancia del idioma, sus componentes estructuras. 
