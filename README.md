@@ -12,10 +12,10 @@ van 3 clásicos dado un documento Texto :
  0. Cree su plantilla de documentación de código para que otros
     desarrolladores puedan leer y extender su código.
     
- 1. Construya un programa que cuente el número de plabras y caracteres
+ 1. Construya un programa que cuente el número de palabras y caracteres
     total del documento. 
     
- 2. Construya un programa que compare que dado un texto encuntre palabra
+ 2. Construya un programa que compare que dado un texto encuentre palabra
     lexicográficamente iguales
 
 El 1 de mayo hacemos una sesión para compartir las soluciones por la lista de inscritos para encontrar y comentar las mejores soluciones. 
